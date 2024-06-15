@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XoLGRbHq)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15255677&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-5
 Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
@@ -8,8 +10,8 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
-2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+2. After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions. First-time Setup:
+   -
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
@@ -27,8 +29,8 @@ Answer the following questions based on your understanding of the installation a
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
 
 8. Settings and Preferences:
-   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
-
+   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and 
+keybindings.
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
